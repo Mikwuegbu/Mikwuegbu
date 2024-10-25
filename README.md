@@ -31,15 +31,7 @@ I’m actively working on:
 - 🎓 **Engineering Background**: Computer Science
 - 🌱 **Current Goals**: Build fullstack projects, dive deeper into mobile app development, and enhance containerization skills with Docker
 - 💬 **Ask me about**: React, JavaScript, TypeScript, animations in web design, and state management
-- 📫 **Connect with me**: [mark@example.com](mailto:mark@example.com)
-
----
-
-### 📈 GitHub Stats
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikwuegbu&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikwuegbu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikwuegbu&theme=radical)](https://git.io/streak-stats)
-
+- 📫 **Connect with me**: [Send an Email](mailto:mstephen130@gmail.com)
 
 ---
 
