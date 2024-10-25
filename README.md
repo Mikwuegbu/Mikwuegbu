@@ -28,7 +28,7 @@ I’m actively working on:
 ---
 
 ### 🚀 About Me
-- 🎓 **Engineering Background**: Computer Science
+- 🎓 **Engineering Background**: Computer Engineering
 - 🌱 **Current Goals**: Build fullstack projects, dive deeper into mobile app development, and enhance containerization skills with Docker
 - 💬 **Ask me about**: React, JavaScript, TypeScript, animations in web design, and state management
 - 📫 **Connect with me**: [Send an Email](mailto:mstephen130@gmail.com)
