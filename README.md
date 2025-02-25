@@ -1,6 +1,6 @@
 # Hi there, I'm Mark! 👋
 
-I'm an experienced Frontend Developer with a Computer Engineering background, specializing in creating seamless, dynamic user experiences. Currently, I'm on a **Fullstack Developer track** using **Node.js** and exploring **mobile development** with **React Native**.
+I'm an experienced Frontend & Mobile Developer with a Computer Engineering background, specializing in creating seamless, dynamic user experiences. Currently, I'm on a **Fullstack Developer track** using **Node.js** and exploring **Expressjs**
 
 ---
 
@@ -9,8 +9,8 @@ I'm an experienced Frontend Developer with a Computer Engineering background, sp
 - **Animation Libraries**: Framer Motion, React Spring
 - **State Management**: Redux, Zustand, React Query
 - **Styling**: Tailwind CSS, ShadUI
-- **Backend**: Node.js (learning)
-- **Mobile Development**: React Native (learning)
+- **Backend**: Node.js
+- **Mobile Development**: React Native
 - **Containers**: Docker
 
 ---
