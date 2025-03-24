@@ -5,7 +5,7 @@ I'm an experienced Frontend & Mobile Developer with a Computer Engineering backg
 ---
 
 ### 🛠️ Skills & Technologies
-- **Frontend**: React, JavaScript (JS), TypeScript (TS)
+- **Frontend**: React, NextJs, TypeScript (TS)
 - **Animation Libraries**: Framer Motion, React Spring
 - **State Management**: Redux, Zustand, React Query
 - **Styling**: Tailwind CSS, ShadUI, Chakra UI
