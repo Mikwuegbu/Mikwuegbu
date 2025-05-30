@@ -9,7 +9,7 @@ I'm an experienced Frontend & Mobile Developer with a Computer Engineering backg
 - **Animation Libraries**: Framer Motion, React Spring
 - **State Management**: Redux, Zustand, React Query
 - **Styling**: Tailwind CSS, ShadUI, Chakra UI
-- **Backend**: Node.js, mongoDB
+- **Backend**: Node.js, ExpressJS, mongoDB
 - **Mobile Development**: React Native, Expo. Expo router.
 - **Containers**: Docker
 
