@@ -1,38 +1,44 @@
-# Hi there, I'm Mark! 👋
+# Hi there, I'm Mark! 👋  
 
-I'm an experienced Frontend & Mobile Developer with a Computer Engineering background, specializing in creating seamless, dynamic user experiences. Currently, I'm on a **Fullstack Developer track** using **Node.js** and exploring **Expressjs**
-
----
-
-### 🛠️ Skills & Technologies
-- **Frontend**: React, NextJs, TypeScript (TS)
-- **Animation Libraries**: Framer Motion, React Spring
-- **State Management**: Redux, Zustand, React Query
-- **Styling**: Tailwind CSS, ShadUI, Chakra UI
-- **Backend**: Node.js, ExpressJS, mongoDB
-- **Mobile Development**: React Native, Expo. Expo router.
-- **Containers**: Docker
+I’m a results-driven **Software Developer** with a **Computer Engineering** background, skilled in building **scalable, high-performing applications** across **Frontend, Backend, and Mobile platforms**.  
+I specialize in crafting seamless user experiences with modern frameworks, managing complex state efficiently, and architecting reliable backend systems.  
+Currently, I’m expanding my expertise into **Generative AI with Python**, exploring how to integrate AI into **fullstack and mobile solutions**.  
 
 ---
 
-### 🔧 Currently Working With
-I’m actively working on:
-- **Fullstack Projects** using **Node.js** for backend development
-- **Mobile Development** with **React Native**
-- **Docker** for containerizing applications
-- **React Query** for optimized data fetching
-- **Redux & Zustand** for effective state management
-- **Framer Motion & React Spring** to add engaging animations to web applications
-- **Tailwind CSS** and **ShadUI** for consistent and responsive UI design
+## 🛠️ Skills & Technologies  
+- **Frontend**: React, Next.js, TypeScript (TS)  
+- **Animation Libraries**: Framer Motion, React Spring, Animate on scroll(AOS) etc,   
+- **State Management**: Redux, Zustand, React Query  
+- **Styling**: Tailwind CSS, ShadUI, Chakra UI, Material UI  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **Mobile Development**: React Native, Expo, Expo Router  
+- **Containers**: Docker  
+- **AI & ML**: Python, NumPy, Pandas, TensorFlow, PyTorch (learning track)  
 
 ---
 
-### 🚀 About Me
-- 🎓 **Engineering Background**: Computer Engineering
-- 🌱 **Current Goals**: Build fullstack projects, dive deeper into mobile app development, and enhance containerization skills with Docker
-- 💬 **Ask me about**: React, JavaScript, TypeScript, animations in web design, and state management
-- 📫 **Connect with me**: [Send an Email](mailto:mstephen130@gmail.com)
+## 🔧 Currently Working With  
+- **Fullstack Applications** using **Node.js & Express.js**  
+- **Mobile Development** with **React Native & Expo**  
+- **Generative AI Projects** with **Python**  
+- **Docker** for containerization and deployment  
+- **React Query, Zustand, Redux** for advanced state management  
+- **Framer Motion & React Spring** for animations  
+- **Tailwind CSS & ShadUI** for responsive UI design  
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories or reach out!
+## 🚀 About Me  
+- 🎓 **Background**: Computer Engineering  
+- 🌱 **Current Goals**:  
+  - Build and scale **fullstack solutions**  
+  - Advance in **mobile app development**  
+  - Apply **Generative AI** to real-world projects  
+  - Deepen **containerization & deployment** skills with Docker  
+- 💬 **Ask me about**: React, TypeScript, state management, backend with Node.js/Express.js, animations in web/mobile apps, and AI integration  
+- 📫 **Connect with me**: [Send an Email](mailto:mstephen130@gmail.com)  
+
+---
+
+✨ Thanks for visiting my profile! 🚀 Let’s connect and build something impactful.  
