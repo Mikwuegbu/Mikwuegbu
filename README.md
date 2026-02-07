@@ -7,11 +7,9 @@ Currently, I’m expanding my expertise into **Generative AI with Python**, expl
 ---
 
 ## 🛠️ Skills & Technologies  
-- **Frontend**: React, Next.js, TypeScript (TS)  
-- **Animation Libraries**: Framer Motion, React Spring, Animate on scroll(AOS) etc,   
-- **State Management**: Redux, Zustand, React Query  
-- **Styling**: Tailwind CSS, ShadUI, Chakra UI, Material UI  
-- **Backend**: Node.js, Express.js, MongoDB  
+- **Frontend**: React, Next.js, React Router, Remix.
+- **Styling**: Tailwind CSS, ShadUI, Chakra UI, Material UI, Hero UI etc
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL
 - **Mobile Development**: React Native, Expo, Expo Router  
 - **Containers**: Docker  
 - **AI & ML**: Python, NumPy, Pandas, TensorFlow, PyTorch (learning track)  
@@ -19,24 +17,20 @@ Currently, I’m expanding my expertise into **Generative AI with Python**, expl
 ---
 
 ## 🔧 Currently Working With  
-- **Fullstack Applications** using **Node.js & Express.js**  
+- **Fullstack Applications** using **Node.js, NestJs & Express.js**  
 - **Mobile Development** with **React Native & Expo**  
 - **Generative AI Projects** with **Python**  
-- **Docker** for containerization and deployment  
-- **React Query, Zustand, Redux** for advanced state management  
-- **Framer Motion & React Spring** for animations  
-- **Tailwind CSS & ShadUI** for responsive UI design  
+- **Docker** for containerization and deployment
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **Background**: Computer Engineering  
 - 🌱 **Current Goals**:  
-  - Build and scale **fullstack solutions**  
-  - Advance in **mobile app development**  
+  - Build and scale **fullstack solutions**   
   - Apply **Generative AI** to real-world projects  
   - Deepen **containerization & deployment** skills with Docker  
-- 💬 **Ask me about**: React, TypeScript, state management, backend with Node.js/Express.js, animations in web/mobile apps, and AI integration  
+- 💬 **Ask me about**: React, TypeScript, state management, backend with Node.js/NestJs/Express.js, animations in web/mobile apps, and AI integration  
 - 📫 **Connect with me**: [Send an Email](mailto:mstephen130@gmail.com)  
 
 ---
